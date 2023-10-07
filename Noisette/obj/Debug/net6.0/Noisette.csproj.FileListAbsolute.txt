@@ -1,0 +1,46 @@
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\bin\Debug\net6.0\Noisette.Core.deps.json
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\bin\Debug\net6.0\Noisette.Core.runtimeconfig.json
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\bin\Debug\net6.0\Noisette.Core.exe
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\bin\Debug\net6.0\Noisette.exe
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\bin\Debug\net6.0\Noisette.deps.json
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\bin\Debug\net6.0\Noisette.runtimeconfig.json
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\bin\Debug\net6.0\Noisette.dll
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\bin\Debug\net6.0\Noisette.pdb
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\bin\Debug\net6.0\Noisette.Core.dll
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\bin\Debug\net6.0\Noisette.Core.pdb
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\obj\Debug\net6.0\Noisette.csproj.AssemblyReference.cache
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\obj\Debug\net6.0\Noisette.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\obj\Debug\net6.0\Noisette.AssemblyInfoInputs.cache
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\obj\Debug\net6.0\Noisette.AssemblyInfo.cs
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\obj\Debug\net6.0\Noisette.csproj.CoreCompileInputs.cache
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\obj\Debug\net6.0\Noisette.csproj.CopyComplete
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\obj\Debug\net6.0\Noisette.dll
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\obj\Debug\net6.0\refint\Noisette.dll
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\obj\Debug\net6.0\Noisette.pdb
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\obj\Debug\net6.0\Noisette.genruntimeconfig.cache
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\obj\Debug\net6.0\ref\Noisette.dll
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\bin\Debug\net6.0\Colorful.Console.dll
+E:\C#\Reverse Engineering\Skrizhali\New folder\Noisette\bin\Debug\net6.0\dnlib.dll
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\bin\Debug\net6.0\Noisette.Core.deps.json
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\bin\Debug\net6.0\Noisette.Core.runtimeconfig.json
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\bin\Debug\net6.0\Noisette.Core.exe
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\bin\Debug\net6.0\Noisette.exe
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\bin\Debug\net6.0\Noisette.deps.json
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\bin\Debug\net6.0\Noisette.runtimeconfig.json
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\bin\Debug\net6.0\Noisette.dll
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\bin\Debug\net6.0\Noisette.pdb
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\bin\Debug\net6.0\Colorful.Console.dll
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\bin\Debug\net6.0\dnlib.dll
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\bin\Debug\net6.0\Noisette.Core.dll
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\bin\Debug\net6.0\Noisette.Core.pdb
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\obj\Debug\net6.0\Noisette.csproj.AssemblyReference.cache
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\obj\Debug\net6.0\Noisette.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\obj\Debug\net6.0\Noisette.AssemblyInfoInputs.cache
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\obj\Debug\net6.0\Noisette.AssemblyInfo.cs
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\obj\Debug\net6.0\Noisette.csproj.CoreCompileInputs.cache
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\obj\Debug\net6.0\Noisette.csproj.CopyComplete
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\obj\Debug\net6.0\Noisette.dll
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\obj\Debug\net6.0\refint\Noisette.dll
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\obj\Debug\net6.0\Noisette.pdb
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\obj\Debug\net6.0\Noisette.genruntimeconfig.cache
+E:\C#\Reverse Engineering\Skrizhali\Noisette\Noisette\obj\Debug\net6.0\ref\Noisette.dll
